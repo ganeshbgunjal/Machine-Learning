@@ -1,0 +1,1 @@
+In this repository we are going to study various type of machine learning algorithms practically.
