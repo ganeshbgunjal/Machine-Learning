@@ -4,3 +4,4 @@ In this repository we are going to study various type of machine learning algori
     2. Multiple Linear regression.
 2. Logistic Regression.
 3. Support Vector Machine.
+4. Naive Baye's Theorem
