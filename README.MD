@@ -6,3 +6,4 @@ In this repository we are going to study various type of machine learning algori
 3. Support Vector Machine.
 4. Naive Baye's Theorem
 5. K Nearest Neighbour
+6. Decision tree
