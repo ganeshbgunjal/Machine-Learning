@@ -9,3 +9,4 @@ In this repository we are going to study various type of machine learning algori
 6. Decision tree algorithm
 7. Random Forest algorithm
 8. Adaboost ML algorithm
+9. Gradient Boost ML algorithm.
